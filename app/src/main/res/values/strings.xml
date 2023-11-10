@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParCar3</string>
+    <string name="find_parking">Find Parking</string>
+    <string name="welcome_to_parcar">Welcome to ParCar</string>
+</resources>
